@@ -1,4 +1,4 @@
-<img src="https://github.com/rodrigodevelop-tech/rodrigodevelop-tech/blob/main/1869.gif" width="30">
+<img src="https://github.com/rodrigodevelop-tech/rodrigodevelop-tech/blob/main/1869.gif" >
 
 ### Hi Devs, I'm Rodrigo Alves 👋
 
