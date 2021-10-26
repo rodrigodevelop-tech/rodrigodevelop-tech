@@ -7,7 +7,7 @@
 </p>
 
 <p>
-   <h4 align="center"> :sunglasses: &nbsp;&nbsp;&nbsp;I'm Full-Stack Developer! ("Sou Desenvolver Full-Stack") &nbsp;&nbsp;&nbsp;:sunglasses:</h4>
+   <h4 align="center"> :sunglasses: &nbsp;&nbsp;&nbsp;I'm Full-Stack Developer! &nbsp;&nbsp;&nbsp;:sunglasses:</h4>
    <h4 align="center"> :heavy_heart_exclamation: I love the tech world :robot:                         </h4>
 </p>
 
