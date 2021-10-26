@@ -6,7 +6,7 @@
 
 :house_with_garden: I’m from Brazil. ("Sou do Brasil")
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodevelop-tech&layout=compact)](https://github.com/rodrigodevelop-tech/github-readme-stats)
-[![rodrigodevelop-tech GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigodevelop-tech)](https://github.com/rodrigodevelop-tech/github-readme-stats)
+<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodevelop-tech&layout=compact)](https://github.com/rodrigodevelop-tech/github-readme-stats)</p>
+
 
 
