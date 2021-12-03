@@ -32,9 +32,10 @@
       <kbd>Studying:</kbd>
       <br />
       <br />
-      <img   title="Adonis"         alt="Adonis"  width="40"   height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"></img>&nbsp;
-      <img   title="Docker"         alt="Docker"  width="40"    height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"></img>&nbsp;
-      <img   title="Amazon WS"     alt="Amazon WS"      width="40"    height="40" src="https://logodownload.org/wp-content/uploads/2017/11/amazon-web-services-logo.png"></img>&nbsp;
+      <img   title="Adonis"        alt="Adonis"     width="40"    height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"></img>&nbsp;
+      <img   title="Docker"        alt="Docker"     width="40"    height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"></img>&nbsp;
+      <img   title="Amazon WS"     alt="Amazon WS"  width="40"    height="40" src="https://logodownload.org/wp-content/uploads/2017/11/amazon-web-services-logo.png"></img>&nbsp;
+      <img   title="NextJS"        alt="NextJS"     width="40"    height="40" src="https://raw.githubusercontent.com/rodrigodevelop-tech/rodrigodevelop-tech/3593d66a30fe4ae0443b9bed30f70f138a5a7136/next-js-seeklogo.com.svg"></img>&nbsp;
       <br />
   </kbd>
 </div>
