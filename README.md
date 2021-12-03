@@ -39,20 +39,9 @@
       <br />
   </kbd>
 </div>
- 
- ##
- 
 
-<div align="center"> 
+&nbsp;&nbsp;&nbsp;
  
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width:100%">        
-  </img>&nbsp;&nbsp;&nbsp;  
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgres" width="40" height="40" style="max-width:100%">     
-  </img>&nbsp;&nbsp;&nbsp;
-  <img  src="https://logodownload.org/wp-content/uploads/2017/11/amazon-web-services-logo.png" alt="aws" width="50" height="40" style="max-width:100%"></img>
-</div>
-
-<hr/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
