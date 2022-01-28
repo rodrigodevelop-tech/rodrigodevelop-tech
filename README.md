@@ -3,9 +3,9 @@
 </div>
 
 <p>
-   <h3 align="center">Hello Devs, I'm Rodrigo Alves👋</h3>
-   <h4 align="center"> :sunglasses: &nbsp;&nbsp;&nbsp;I'm Full-Stack Developer! &nbsp;&nbsp;&nbsp;:sunglasses:</h4>
-   <h4 align="center"> :heavy_heart_exclamation: I love the tech world :robot: </h4>
+   <h3 align="center">Hello Devs, meu nome é Rodrigo Alves👋</h3>
+   <h4 align="center"> :sunglasses: &nbsp;&nbsp;&nbsp;Sou desenvolver Front-end &nbsp;&nbsp;&nbsp;:sunglasses:</h4>
+   <h4 align="center"> :heavy_heart_exclamation: Sempre fui apaixonado por tecnologia e pela programação :robot: </h4>
 </p>
 
 ##
