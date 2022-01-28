@@ -74,12 +74,5 @@
 
 <hr/>
 
-<div align="center">
-
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodevelop-tech&layout=compact)](https://github.com/rodrigodevelop-tech/github-readme-stats) 
-  
-</div>
-
-
 
 
